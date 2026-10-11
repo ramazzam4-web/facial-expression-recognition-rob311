@@ -1,0 +1,6 @@
+numpy
+scikit-image
+scikit-learn
+opencv-python<5   # OpenCV 5 no longer ships the Haar cascade face detector
+pillow
+matplotlib
